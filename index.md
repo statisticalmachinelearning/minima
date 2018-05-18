@@ -5,7 +5,7 @@
 # To change the home page layout, edit the _layouts/home.html file.
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout: page
+layout: default
 ---
 
 This websites lists the resources and additional materials you require to master the concepts discussed in each chapter of the textbook.
