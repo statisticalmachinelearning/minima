@@ -10,7 +10,7 @@ layout: default
 
 This websites lists the resources and additional materials you require to master the concepts discussed in each chapter of the textbook.
 
-  1. [Examples of Machine Learning Algorithms](/machine-learning-example-algorithms/)
+  1. [Examples of Machine Learning Algorithms](https://statisticalmachinelearning.github.io/machine-learning-example-algorithms/)
   2. Concept Models 
   3. Formal Machine Learning Algorithms 
   4. Linear Machines 
