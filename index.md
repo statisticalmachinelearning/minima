@@ -9,7 +9,7 @@ layout: default
 ---
 
 <div style="image-align: center"> 
-![](https://statisticalmachinelearning.github.io/images/Screen%20Shot%202018-05-19%20at%201.50.19%20AM.png){:width="160px"} 
+![](https://statisticalmachinelearning.github.io/images/Screen%20Shot%202018-05-19%20at%201.50.19%20AM.png) 
 </div>
 
 <div style="text-align: justify"> 
