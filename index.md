@@ -42,5 +42,6 @@ The goal of this website is to provide you with supplementary materials to help 
   15. Analytic Formulas: Generalization Performance 
   16. Model Selection and Evaluation
   
- ## SML Software Guide
+## [SML Software Guide](https://statisticalmachinelearning.github.io/SML-Software-Guide/)
+
 *If you notice any typos or have suggestions that needs to be included in the textbook, please feel free to contact the author directly by e-mail at: golden@utdallas.edu*
