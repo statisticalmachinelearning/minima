@@ -11,9 +11,10 @@ layout: default
 The Statistical Machine Learning Textbook is a resource intended for readers interested in a concise mathematically rigorous introdution to statistical machine learning literature. A major objective of this advanced undergraduate textbook is to introduce a modular theory-based design strategy for supporting the mathematical analysis and design of machine learning algorithms.
 </div>
 
+&nbsp;
 
 The goal of this website is to provide you with supplementary materials to help you master the chapters from *Statistical Machine Learning Textbook* and help you with using the SML MATLAB software that came with the textbook. 
-
+&nbsp;
 
   1. [Examples of Machine Learning Algorithms](https://statisticalmachinelearning.github.io/machine-learning-example-algorithms/)
   2. Concept Models 
