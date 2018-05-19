@@ -45,7 +45,7 @@ The goal of this website is to provide you with supplementary materials to help 
 ## [SML Software Guide](https://statisticalmachinelearning.github.io/SML-Software-Guide/)
 
 
-You are also encouraged to ask questions and join the discussions regarding the textbook at [Statistical Machine Learning LinkedIn Forum](https://www.linkedin.com/groups/6932013)
+You are also encouraged to ask questions and join the discussions regarding the textbook at [Statistical Machine Learning LinkedIn Forum](https://www.linkedin.com/groups/6932013).
 
 
 *If you notice any typos or have suggestions that needs to be included in the textbook, please feel free to contact the author directly by e-mail at: golden@utdallas.edu*
