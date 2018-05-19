@@ -10,7 +10,7 @@ layout: default
 <div style="text-align: justify"> 
 The Statistical Machine Learning Textbook is intended for readers interested in a concise mathematically rigorous introdution to statistical machine learning literature. A major objective of this advanced undergraduate textbook is to introduce a modular theory-based design strategy for supporting the mathematical analysis and design of machine learning algorithms.
 
-&nbsp;
+<br>
 
 The goal of this website is to provide you with supplementary materials to help you master the chapters from *Statistical Machine Learning Textbook*
 </div>
