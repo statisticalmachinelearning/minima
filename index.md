@@ -8,7 +8,7 @@
 layout: default
 ---
 
-This websites lists the resources and additional materials you require to master the concepts discussed in each chapter of the textbook.
+The goal of this website is to provide you with supplementary materials to help you master the chapters from *Statistical Machine Learning Textbook*
 
   1. [Examples of Machine Learning Algorithms](https://statisticalmachinelearning.github.io/machine-learning-example-algorithms/)
   2. Concept Models 
